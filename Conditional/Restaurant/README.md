@@ -1,4 +1,4 @@
-# Week_2_challenge
+# Restaurant Menu
 This program prompts the user to choose from a menu
 
 ## Menu
